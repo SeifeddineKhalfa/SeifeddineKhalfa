@@ -31,6 +31,7 @@ const seif = {
   stack: {
     typescript: ["NestJS", "Next.js", "React", "Express", "GraphQL"],
     python: ["Flask", "Django", "LLM integration", "OCR pipelines"],
+    php: ["Symfony", "Laravel", "API Platform"],
     automation: ["n8n", "Zapier", "RabbitMQ", "Shopify API & webhooks"],
     cloud: ["Docker", "Kubernetes", "Google Cloud Run / Functions", "GitLab CI"],
   },
@@ -62,7 +63,7 @@ const seif = {
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Scale & delivery</h3>
-      Backends handling <b>50k+ daily transactions</b> at <b>&lt;200 ms</b>. CI/CD with multi-stage Docker builds and <b>&gt;80% test coverage</b> — <b>−45% production bugs</b>.
+      <b>PHP 8 / Symfony</b> backends handling <b>50k+ daily transactions</b> at <b>&lt;200 ms</b>. CI/CD with multi-stage Docker builds and <b>&gt;80% test coverage</b> — <b>−45% production bugs</b>.
     </td>
   </tr>
 </table>
@@ -99,12 +100,11 @@ const seif = {
 
 <p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=11" alt="Databases"/></p>
 
-<details>
-  <summary><b>Also in my toolbox</b></summary>
-  <br/>
-  <p><img src="https://skillicons.dev/icons?i=php,symfony,laravel,java&perline=11" alt="Other languages and frameworks"/></p>
-  PHP 8 · Symfony · Laravel · API Platform · PHPUnit · Java · Swagger/OpenAPI · Jira
-</details>
+**PHP & Symfony**
+
+<p><img src="https://skillicons.dev/icons?i=php,symfony,laravel&perline=11" alt="PHP stack"/></p>
+
+PHP 8 · Symfony 5–7 · Laravel · API Platform · PHPUnit · also Java
 
 ---
 
@@ -147,8 +147,8 @@ const seif = {
 | Period | Role | Company |
 |---|---|---|
 | 2026 → now | **Technical Team Supervisor** — engineering direction, standards, AI-assisted workflows | Shopy Science |
-| 2023 → now | **Senior Software Engineer** — microservices, pipelines, Shopify, AI automation | Shopy Science |
-| 2019 → 2023 | **Software Engineer & Technical Lead** — led a team of 3, CRM and telephony platforms | Dream Tek Consulting |
+| 2023 → now | **Senior Software Engineer** — NestJS & Symfony microservices, pipelines, Shopify, AI automation | Shopy Science |
+| 2019 → 2023 | **Software Engineer & Technical Lead** — led a team of 3, Symfony CRM and telephony platforms | Dream Tek Consulting |
 
 🎓 **National Engineering Diploma in Computer Science** — ESPRIT, Tunis (2024)
 
